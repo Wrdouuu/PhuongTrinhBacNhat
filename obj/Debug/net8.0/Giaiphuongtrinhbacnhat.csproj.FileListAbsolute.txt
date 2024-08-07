@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\Giaiphuongtrinhbacnhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\Giaiphuongtrinhbacnhat.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\Giaiphuongtrinhbacnhat.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\Giaiphuongtrinhbacnhat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\bin\Debug\net8.0\Giaiphuongtrinhbacnhat.exe
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\bin\Debug\net8.0\Giaiphuongtrinhbacnhat.deps.json
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\bin\Debug\net8.0\Giaiphuongtrinhbacnhat.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\bin\Debug\net8.0\Giaiphuongtrinhbacnhat.dll
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\bin\Debug\net8.0\Giaiphuongtrinhbacnhat.pdb
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\Giaiphuongtrinhbacnhat.dll
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\refint\Giaiphuongtrinhbacnhat.dll
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\Giaiphuongtrinhbacnhat.pdb
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\Giaiphuongtrinhbacnhat.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\Giaiphuongtrinhbacnhat\obj\Debug\net8.0\ref\Giaiphuongtrinhbacnhat.dll
